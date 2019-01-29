@@ -58,6 +58,7 @@ def add_s(array)
     if index < 1 || index > 1
       element << "s"
     elsif index == 1 
+      element
     end
   end
 end
